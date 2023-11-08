@@ -5,6 +5,7 @@
       "indentationWidth": 4
     },
     "colors": {
+      "documentation-intro-fill": "rebeccapurple",
       "text": "",
       "text-background": "",
       "grid": "",
